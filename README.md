@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
 ### 2. Clone or Navigate to the Project
 ```bash
-git clone https://github.com/YourUsername/YourRepository.git
+git clone https://github.com/DivyajChhajed/YourRepository.git
 cd YourRepository
 ```
 *(If you have downloaded the files locally instead, simply open your terminal and navigate to the project folder.)*
